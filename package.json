@@ -22,7 +22,7 @@
     "@types/fs-extra": "^11.0.4",
     "eslint-plugin-sf-plugin": "^1.17.5",
     "husky": "^9.0.11",
-    "oclif": "^4.10.1",
+    "oclif": "^4.13.12",
     "shx": "0.3.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.2"

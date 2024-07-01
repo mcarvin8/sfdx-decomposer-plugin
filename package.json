@@ -8,7 +8,7 @@
     "@salesforce/sf-plugins-core": "^7.1.16",
     "@salesforce/source-deploy-retrieve": "^10.7.1",
     "fs-extra": "^11.2.0",
-    "simple-git": "^3.24.0",
+    "simple-git": "^3.25.0",
     "xml-disassembler": "^1.3.2",
     "xml2json-disassembler": "^1.1.1",
     "xml2yaml-disassembler": "^1.1.1"
